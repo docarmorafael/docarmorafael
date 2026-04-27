@@ -1,6 +1,6 @@
 # Olá! 👋
 
-Bem-vindo ao meu perfil GitHub! Sou **Rafael do Carmo**, um desenvolvedor apaixonado por tecnologia e inovação.
+Bem-vindo ao meu perfil GitHub! Sou **João Rafael**, um desenvolvedor apaixonado por tecnologia e inovação.
 
 ## 🚀 Sobre Mim
 
