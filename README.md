@@ -10,11 +10,11 @@ Sou um profissional dedicado à criação de soluções de software de qualidade
 
 Trabalho com diversas tecnologias e estou sempre em busca de aprender novas habilidades:
 
-- **Linguagens**: JavaScript, TypeScript, Python, e mais
-- **Frontend**: React, Vue.js, HTML, CSS
-- **Backend**: Node.js, Express, APIs RESTful
-- **Banco de Dados**: PostgreSQL, MongoDB
-- **Ferramentas**: Git, Docker, GitHub Actions
+- **Linguagens**: JavaScript, Python, C e Java
+- **Frontend**: HTML e CSS
+- **Backend**: Node.js, Eclipse e Visual Studio Code
+- **Banco de Dados**: MySQL e Oracle SQL Developer
+- **Ferramentas**: Git e GitHub Actions
 
 ## 📚 Aprendizado Contínuo
 
