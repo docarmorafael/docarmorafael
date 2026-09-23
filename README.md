@@ -10,9 +10,9 @@ Sou um profissional dedicado à criação de soluções de software de qualidade
 
 Trabalho com diversas tecnologias e estou sempre em busca de aprender novas habilidades:
 
-- **Linguagens**: JavaScript, Python, C e Java
+- **Linguagens**: Python, Java, C e JavaScript
 - **Frontend**: HTML e CSS
-- **Backend**: Node.js, Eclipse e Visual Studio Code
+- **Backend**: Eclipse e Visual Studio Code
 - **Banco de Dados**: MySQL e Oracle SQL Developer
 - **Ferramentas**: Git e GitHub Actions
 
