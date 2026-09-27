@@ -12,7 +12,7 @@ Trabalho com diversas tecnologias e estou sempre em busca de aprender novas habi
 
 - **Linguagens**: Python, Java, C e JavaScript
 - **Frontend**: HTML e CSS
-- **Backend**: Eclipse e Visual Studio Code
+- **Back-end**: Eclipse e Visual Studio Code
 - **Banco de Dados**: MySQL e Oracle SQL Developer
 - **Ferramentas**: Git e GitHub Actions
 
@@ -36,6 +36,7 @@ Acredito no poder da educação contínua e estou constantemente:
 Estou sempre aberto para conversas, parcerias e novas oportunidades:
 
 - 📧 GitHub: [docarmorafael](https://github.com/docarmorafael)
+- 💼 LinkedIn: [João Rafael do Carmo Santos](https://www.linkedin.com/in/jo%C3%A3o-rafael-do-carmo-santos-8a16ba323/)
 - 💬 Sinta-se livre para explorar meus repositórios e projetos
 
 ---
