@@ -1,6 +1,6 @@
 # Olá! 👋
 
-Bem-vindo ao meu perfil GitHub! Sou **João Rafael**!
+Bem-vindo ao meu perfil GitHub! Sou o **João Rafael**!
 
 ## 🚀 Sobre Mim
 
