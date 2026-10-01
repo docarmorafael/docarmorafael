@@ -4,7 +4,7 @@ Bem-vindo ao meu perfil GitHub! Sou o **João Rafael**!
 
 ## 🚀 Sobre Mim
 
-Sou um profissional dedicado à criação de soluções de software de qualidade. Tenho interesse em várias áreas da tecnologia, incluindo desenvolvimento web com foco em backend e sistemas gerenciadores de banco de dados relacionais.
+Sou um profissional dedicado à criação de soluções de software de qualidade. Tenho interesse em várias áreas da tecnologia, incluindo desenvolvimento web com foco em back-end e sistemas gerenciadores de banco de dados relacionais.
 
 ## 💻 Tecnologias e Ferramentas
 
