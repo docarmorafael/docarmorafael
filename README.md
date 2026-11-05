@@ -130,9 +130,8 @@ Busco colaborar com equipes que valorizem a inovação, o aprendizado contínuo 
 ## 🔗 Vamos nos conectar?
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-rafael-do-carmo-santos-8a16ba323/)
-- 📂 [Email profissional](docarmorafaeldev05@proton.me)
+- 📂 [Email profissional](mailto:docarmorafaeldev05@proton.me)
 
 ---
 
 ⭐ Obrigado por visitar meu perfil! Fique à vontade para explorar meus repositórios e acompanhar minha jornada na tecnologia.
-
