@@ -108,17 +108,6 @@ Estou sempre buscando novos conhecimentos e oportunidades para transformar ideia
 
 ---
 
-## 📚 Aprendizado contínuo
-
-Acredito que a evolução profissional acontece por meio da prática, da curiosidade e do compartilhamento de conhecimento.
-
-- Aprimorar minhas habilidades em desenvolvimento back-end.
-- Aprofundar meus conhecimentos em bancos de dados e arquitetura de software.
-- Desenvolver projetos que consolidem meu aprendizado.
-- Explorar novas tecnologias e contribuir com projetos open source.
-
----
-
 ## 🎯 Objetivos profissionais
 
 Meu objetivo é construir uma carreira sólida em tecnologia, desenvolvendo soluções úteis e de qualidade.
