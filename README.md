@@ -1,6 +1,6 @@
 # Olá, eu sou João Rafael! 👋
 
-### Desenvolvedor em formação | Back-end | Banco de Dados
+### Front-end | Back-end | Banco de Dados
 
 Bem-vindo ao meu GitHub!
 
