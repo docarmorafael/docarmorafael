@@ -10,12 +10,11 @@ Atualmente, estou cursando Sistemas de Informação pelo Centro Universitário d
 
 ---
 
-## 🚀 Sobre mim
+## 🎯 Objetivos profissionais
 
-- 💻 Interessado em desenvolvimento back-end e criação de soluções de software.
-- 🗄️ Explorando bancos de dados relacionais e suas aplicações.
-- 📚 Em constante aprendizado sobre tecnologias e boas práticas de programação.
-- 🤝 Aberto a colaborações, projetos e oportunidades profissionais.
+- Segurança da Informação: Aprofundar meus conhecimentos em cibersegurança, desenvolvendo habilidades técnicas e práticas em proteção de sistemas, identificação de vulnerabilidades e prevenção de ameaças, com o objetivo de me tornar um profissional qualificado na área de Segurança da Informação.
+
+- Desenvolvimento de Software: Aprimorar meus conhecimentos em desenvolvimento Front-end e Back-end, buscando dominar as principais tecnologias e ferramentas utilizadas na criação de aplicações web. Meu objetivo é desenvolver soluções completas, desde a interface do usuário até a estrutura do sistema, tornando-me um profissional independente e capaz de projetar, desenvolver e manter sistemas de forma autônoma.
 
 ---
 
@@ -109,15 +108,7 @@ Atualmente, estou cursando Sistemas de Informação pelo Centro Universitário d
 
 ---
 
-## 🎯 Objetivos profissionais
-
-Meu objetivo é construir uma carreira sólida em tecnologia, desenvolvendo soluções úteis e de qualidade.
-
-Busco colaborar com equipes que valorizem a inovação, o aprendizado contínuo e a troca de experiências.
-
----
-
-## 🔗 Vamos nos conectar?
+## 🔗 Conecte-se comigo
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-rafael-do-carmo-santos-8a16ba323/)
 - 📂 [Email profissional](mailto:docarmorafaeldev05@proton.me)
