@@ -4,9 +4,9 @@
 
 Bem-vindo ao meu GitHub!
 
-Sou apaixonado por tecnologia e desenvolvimento de software, com interesse especial em **desenvolvimento back-end, bancos de dados relacionais e arquitetura de software**.
+Minha trajetória na tecnologia começou na infância, com o interesse por videogames, que despertou minha curiosidade sobre o funcionamento das máquinas. Com o tempo, essa paixão se expandiu para sistemas computacionais, nos quais sempre tive facilidade para explorar e aprender novas funcionalidades. Hoje, busco transformar essa afinidade natural com a tecnologia em conhecimento e desenvolvimento de software, construindo minha carreira na área.
 
-Estou sempre buscando novos conhecimentos e oportunidades para transformar ideias em projetos práticos.
+Atualmente, estou cursando Sistemas de Informação pelo Centro Universitário do Distrito Federal (UDF). Através dos conhecimentos obtidos durante minha formação, pretendo tornar meu GitHub um testemunho do meu crescimento na tecnologia, expondo pequenos e grandes projetos, bem como demonstrar minhas habilidades nas linguagens de programação trabalhadas.
 
 ---
 
