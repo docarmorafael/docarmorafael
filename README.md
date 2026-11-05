@@ -56,7 +56,8 @@ Estou sempre buscando novos conhecimentos e oportunidades para transformar ideia
     <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="48" height="48"/>
   </a>
   <a href="https://www.oracle.com/database/">
-    <img src="https://skillicons.dev/icons?i=oracle" alt="Oracle Database" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"
+       alt="Oracle Database" width="48" height="48"/>
   </a>
 </p>
 
