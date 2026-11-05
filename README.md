@@ -1,4 +1,4 @@
-# Olá, eu sou João Rafael! 👋
+# Olá, eu sou João Rafael!
 
 ### Front-end | Back-end | Banco de Dados
 
