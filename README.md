@@ -115,4 +115,4 @@ Atualmente, estou cursando Sistemas de Informação pelo Centro Universitário d
 
 ---
 
-⭐ Obrigado por visitar meu perfil! Fique à vontade para explorar meus repositórios e acompanhar minha jornada na tecnologia.
+Obrigado por visitar meu perfil! Fique à vontade para explorar meus repositórios e acompanhar minha jornada na tecnologia.
